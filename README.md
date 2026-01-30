@@ -3,7 +3,7 @@
 It allows the user to perform basic mathematical operations such as **addition**, **subtraction**, **multiplication**, and **division**.
 ## Topics 
 - **Functions**  
-- **Conditionals (if / else)**  
+- **Conditionals**  
 - **User input**  
 - **Basic program flow**
 
@@ -32,10 +32,12 @@ This project demonstrates **object-oriented programming** concepts in Python. It
 Users can manage and track tasks. It simulates a small system structure.
 
 ## Topics 
-- **Functions**  
-- **File or data handling**  
-- **Program logic**  
-- **Simple system design**
+- **Functions**
+- **Lists**
+- **Loops**
+- **Conditionals**
+- **User input**
+- **Basic program logic**
 
 ## How to Run
 1. Open terminal in this folder.  
